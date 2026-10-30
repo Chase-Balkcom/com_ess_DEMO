@@ -1,3 +1,4 @@
 Install Git
 
 Make a commit
+4. Try branches
